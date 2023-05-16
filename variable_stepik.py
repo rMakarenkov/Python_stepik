@@ -1,4 +1,3 @@
-
 class Variable:
     # CSS.SELECTOR
     INPUT = ".textarea"
