@@ -14,6 +14,7 @@ driver.get("https://suninjuly.github.io/get_attribute.html")
 try:
     x = driver.find_element(By.CSS_SELECTOR, "#treasure")
     x_atr = x.get_attribute("valuex")
+    print(x_atr)
     result = calc(x_atr)
 
     driver.find_element(By.CSS_SELECTOR, "#answer").send_keys(result)
