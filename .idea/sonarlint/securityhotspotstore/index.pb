@@ -30,8 +30,6 @@ K
 __check_temp.py,6\2\62e55774c6ba2e2d784cf22de916caa73ca3f5aa
 F
 Lesson_1_step_6_for.py,d\6\d6510231649be9436e6f4615526c9c13aea33db9
-K
-Lesson_2.4_step_3_verify.py,e\e\eeb2eb64d73d222b93c5ba0f784a5db9e141c264
 O
 Lesson_2.3_step_6_new_window.py,e\5\e51e0e7eb6e0ae22d1eadc5db11e502dbd94b553
 B
