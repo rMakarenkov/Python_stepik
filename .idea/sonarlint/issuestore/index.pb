@@ -6,7 +6,35 @@
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-?
-selenium_IDE.py,1\3\138f501daa5b24d29a2d226df742aea979bb5e1b
 8
 File.txt,d\3\d3776be2a3991287ab667311c0aeb6ac6c9a9b67
+C
+Lesson_1_step_10.py,6\f\6f9deb2e16828ef181a042d4d0201b393c050acc
+B
+Lesson_1_step_6.py,d\4\d458a9a15e60bc670230a20d57b92e1ea452ce0c
+D
+Lesson_2.2_step_6.py,b\5\b5fe3ed11cf0c4c6c8fa412ed3026670ac217944
+D
+Lesson_2.2_step_5.py,c\e\cebce0ba77f681c95dce86295e2365437faf2ce9
+D
+Lesson_2.2_step_4.py,9\b\9b14ce3aad1305bb2191257c0d710d0dd7b9ebbd
+D
+Lesson_2.2_step_3.py,6\2\6211352976dd98d127a33a023cead4e72c8f53ce
+K
+Lesson_2.3_step_3_allert.py,5\6\56c72d33a888bf18d994d8ba5b042e426ca8d0db
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+B
+Lesson_2_step_7.py,5\b\5bbf7ca58ba83e0d40328097fba6c0da4aec3538
+K
+_Landing_outstaff_create.py,d\2\d20bfddc8f2a8cbf4135a1ee197d932061a92da9
+?
+__check_temp.py,6\2\62e55774c6ba2e2d784cf22de916caa73ca3f5aa
+F
+Lesson_1_step_6_for.py,d\6\d6510231649be9436e6f4615526c9c13aea33db9
+B
+Lesson_2_step_4.py,b\6\b6b79429eeba675f9ee817cc0ae217ece7d195e2
+K
+Lesson_2.4_step_3_verify.py,e\e\eeb2eb64d73d222b93c5ba0f784a5db9e141c264
+O
+Lesson_2.3_step_6_new_window.py,e\5\e51e0e7eb6e0ae22d1eadc5db11e502dbd94b553
