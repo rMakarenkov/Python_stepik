@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
 
-class TestLes1Step11():
+class TestLes1Step11:
 
     def test_function1(self):
         url1 = "https://suninjuly.github.io/registration1.html"

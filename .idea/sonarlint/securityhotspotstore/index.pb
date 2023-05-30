@@ -24,8 +24,6 @@ K
 Lesson_2.3_step_3_allert.py,5\6\56c72d33a888bf18d994d8ba5b042e426ca8d0db
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-B
-Lesson_2_step_7.py,5\b\5bbf7ca58ba83e0d40328097fba6c0da4aec3538
 K
 _Landing_outstaff_create.py,d\2\d20bfddc8f2a8cbf4135a1ee197d932061a92da9
 ?
